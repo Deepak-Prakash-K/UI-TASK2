@@ -1,0 +1,49 @@
+.second-div{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    padding: 10px;
+    height: 700px;
+    width: 350px;
+    margin-left: 600px;
+}
+#p-button{
+    background-color: #E23744;
+    border: #E23744;
+    color: white;
+    margin-left: 255px;
+}
+#open{
+    text-align: right;
+    background-color: rgb(15, 15, 91);
+    color: white;
+    border-radius: 5px;
+}
+#rd-div{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#r-div{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    /* background-color: white; */
+}
+.jd-div{
+    background-color: white;
+    border-radius: 10px;
+}
+#j-div{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;   
+}
+.is-div{
+    background-color: white;
+    border-radius: 10px;
+}
+#i-div{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
